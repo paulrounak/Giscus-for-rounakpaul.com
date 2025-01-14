@@ -1,1 +1,1 @@
-This repository contains the integration of Giscus (a GitHub Discussions-powered comment system) for the website rounakpaul.com. 
+### This repository is configured solely for integrating Giscus (a GitHub Discussions-powered comment system) into the website [rounakpaul.com](https://www.rounakpaul.com/), which is why it is a blank repository.
