@@ -1,1 +1,1 @@
-# Giscus-for-rounakpaul.com
+This repository contains the integration of Giscus (a GitHub Discussions-powered comment system) for the website rounakpaul.com. 
